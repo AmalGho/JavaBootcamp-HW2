@@ -1,2 +1,2 @@
 # JavaBootcamp-HW2
-## the assinement in Main.java class.
+## the assinement in src/Main.java class.
